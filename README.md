@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CErdtmann
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning IOS Development
+- ✨ I'm Experienced Full-Stack-Devleoper
+- 🌱 I’m currently learning Webdevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
